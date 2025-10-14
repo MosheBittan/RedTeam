@@ -1,1 +1,5 @@
+portsChecker - will check if the port on destination IP you add has opened or closed 
+portsOpen - will open ports via sockets 
+
+This simulator - you can open ports and check them if they open/close ...
 
